@@ -23,8 +23,5 @@ Run the following command to install required Python libraries:
 ```bash
 pip install scapy tkinter ( you may already have tkinter in your device)
 
-### **1️⃣ Install Dependencies**
 Run the following command to run the script:
-
-```bash
 python simple_firewall.py
